@@ -1,0 +1,1692 @@
+1515921622719	geckodriver	INFO	geckodriver 0.19.1
+1515921622734	geckodriver	INFO	Listening on 127.0.0.1:57474
+1515921624904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.hxE9vUid1ydz"
+1515921625972	Marionette	INFO	Enabled via --marionette
+1515921628089	Marionette	INFO	Listening on port 57480
+1515921628593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515921628654	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515921710617	geckodriver	INFO	geckodriver 0.19.1
+1515921710624	geckodriver	INFO	Listening on 127.0.0.1:57519
+1515921712741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.chw51HuOTsbd"
+1515921713232	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515921714477	Marionette	INFO	Listening on port 57525
+1515921714751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515921714802	Marionette	DEBUG	Register listener.js for window 4294967297
+1515921714861	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515921715784	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515921715785	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515921718933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515921720451	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515921721175	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515921721243	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1515921721624	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515921721627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515921721783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515921722534	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+[Parent 2704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515923838064	geckodriver	INFO	geckodriver 0.19.1
+1515923838071	geckodriver	INFO	Listening on 127.0.0.1:57970
+1515923840181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.KVuY6sNoZP9H"
+1515923840707	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515923842079	Marionette	INFO	Listening on port 57976
+1515923842193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515923842252	Marionette	DEBUG	Register listener.js for window 4294967297
+1515923842314	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515923843479	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515923843479	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515923846920	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515923848581	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515923848656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515923849197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515923849583	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1515923849586	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515923849681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515923850979	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+[Parent 2104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515923920577	geckodriver	INFO	geckodriver 0.19.1
+1515923920584	geckodriver	INFO	Listening on 127.0.0.1:58070
+1515923922703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.d5GLjC7RdmDK"
+1515923923422	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515923924701	Marionette	INFO	Listening on port 58076
+1515923924726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515923924784	Marionette	DEBUG	Register listener.js for window 4294967297
+1515923924860	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515923926245	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515923926246	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515923929037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515923930756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515923930780	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515923930881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515923931963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515923931965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515923932007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515923934636	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515924457302	geckodriver	INFO	geckodriver 0.19.1
+1515924457309	geckodriver	INFO	Listening on 127.0.0.1:58279
+1515924459421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.Jd0PdPhC8nVU"
+1515924460159	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515924461469	Marionette	INFO	Listening on port 58285
+1515924462538	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515924462613	Marionette	DEBUG	Register listener.js for window 4294967297
+1515924462675	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515924463567	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515924463567	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515924466496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515924469539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515924469930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515924469934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515924469983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515924470033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515924470075	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967342"
+1515924470949	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+mmon/ipc_channel_win.cc, line 346
+1515924507165	Marionette	INFO	Listening on port 58399
+1515924508138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515924508209	Marionette	DEBUG	Register listener.js for window 4294967297
+1515924508272	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515924509071	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515924509072	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515924512886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515924514681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515924515295	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515924515430	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515924515881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515924515883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515924515991	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515924517606	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515924773956	geckodriver	INFO	geckodriver 0.19.1
+1515924773963	geckodriver	INFO	Listening on 127.0.0.1:58531
+1515924776087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.Ir8N82XB5DOv"
+1515924776813	Marionette	INFO	Enabled via --marionette
+1515924778284	Marionette	INFO	Listening on port 58537
+1515924779198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515924779253	Marionette	DEBUG	Register listener.js for window 4294967297
+1515924779334	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515924780417	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515924780418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515924783183	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515924784997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515924784997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515924785808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515924786656	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515924786658	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515924786802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515924787406	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515924927459	geckodriver	INFO	geckodriver 0.19.1
+1515924927466	geckodriver	INFO	Listening on 127.0.0.1:58667
+1515924929566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.H7tOC892HPUd"
+1515924930337	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515924932037	Marionette	INFO	Listening on port 58673
+1515924932679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515924932740	Marionette	DEBUG	Register listener.js for window 4294967297
+1515924932795	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515924933725	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515924933725	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515924936450	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515924938746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515924938746	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515924940193	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515924940195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515924940200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515924940254	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515924942269	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515925006352	geckodriver	INFO	geckodriver 0.19.1
+1515925006359	geckodriver	INFO	Listening on 127.0.0.1:58768
+1515925008471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.nEhbe5jCF0yn"
+1515925009033	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515925010265	Marionette	INFO	Listening on port 58774
+1515925010489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515925010542	Marionette	DEBUG	Register listener.js for window 4294967297
+1515925010599	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515925011523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515925011524	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515925014286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515925015821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515925016898	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515925017492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515925017996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515925018000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515925018044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515925021531	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515925021609	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515925023595	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515925023597	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515925024101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515925024101	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515925024102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1515925024102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515925024102	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515925024103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515925024103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515925024103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515925024104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515925024104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515925024104	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1515925024105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515925024606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515925025828	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1515925026476	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1515925026478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515925026544	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1515925027430	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1515925027599	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515925107071	geckodriver	INFO	geckodriver 0.19.1
+1515925107078	geckodriver	INFO	Listening on 127.0.0.1:58905
+1515925109184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.i9GDdfJBAXVN"
+1515925109711	Marionette	INFO	Enabled via --marionette
+1515925111035	Marionette	INFO	Listening on port 58911
+1515925111213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515925111268	Marionette	DEBUG	Register listener.js for window 4294967297
+1515925111319	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515925112256	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515925112257	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515925115257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515925117162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515925117163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515925117294	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515925117934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1515925117936	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515925117973	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515925119127	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515925962323	geckodriver	INFO	geckodriver 0.19.1
+1515925962331	geckodriver	INFO	Listening on 127.0.0.1:59288
+1515925964411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.GjEMUC3PkghM"
+1515925965190	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515925966775	Marionette	INFO	Listening on port 59294
+1515925967536	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515925967595	Marionette	DEBUG	Register listener.js for window 4294967297
+1515925967654	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515925969091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515925969091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515925971644	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515925974744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515925975152	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515925975195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515925975197	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515925975231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1515925975260	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515925978323	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515926225462	geckodriver	INFO	geckodriver 0.19.1
+1515926225470	geckodriver	INFO	Listening on 127.0.0.1:50489
+1515926227585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.iENVfRyLFqbE"
+1515926228290	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515926229675	Marionette	INFO	Listening on port 50495
+1515926230702	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515926230773	Marionette	DEBUG	Register listener.js for window 4294967297
+1515926230831	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515926232105	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515926232105	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515926235061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515926236905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515926237221	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515926238182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515926238877	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515926238879	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515926238927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515926245000	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433096, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433096, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+[Child 2324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+1515927258852	geckodriver	INFO	geckodriver 0.19.1
+1515927258860	geckodriver	INFO	Listening on 127.0.0.1:50983
+1515927260972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.CrIhbZxd1Eql"
+1515927261698	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12012, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515927263127	Marionette	INFO	Listening on port 50991
+1515927264083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515927264142	Marionette	DEBUG	Register listener.js for window 4294967297
+1515927264207	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515927265070	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515927265070	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515927267858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515927269246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1515927270498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1515927270498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515927271065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515927271068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515927271137	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515927277657	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515927326604	geckodriver	INFO	geckodriver 0.19.1
+1515927326614	geckodriver	INFO	Listening on 127.0.0.1:51107
+1515927328718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.HFevgjgmjTyl"
+1515927329461	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515927330791	Marionette	INFO	Listening on port 51113
+1515927331836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515927331908	Marionette	DEBUG	Register listener.js for window 4294967297
+1515927331983	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515927332838	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515927332838	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515927335557	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515927338403	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515927338507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1515927338958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1515927338960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515927339103	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1515927339535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1515927344844	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515927344943	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515927347195	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515927347196	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515927347565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515927347565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515927347566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515927347566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515927347566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515927347566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515927347566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515927347567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515927347567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515927347567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515927347568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515927347568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515927348136	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515927350051	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1515927350089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1515927350093	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1515927350180	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967371"
+1515927350652	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+1515927416157	geckodriver	INFO	geckodriver 0.19.1
+1515927416165	geckodriver	INFO	Listening on 127.0.0.1:51258
+1515927418557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.pNOMLh30yFak"
+1515927419263	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515927420546	Marionette	INFO	Listening on port 51264
+1515927420573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515927420630	Marionette	DEBUG	Register listener.js for window 4294967297
+1515927420710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515927421558	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515927421558	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515927424242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515927424936	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515927424936	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1515927426297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1515927427057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1515927427062	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515927427354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515927434249	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515928489378	geckodriver	INFO	geckodriver 0.19.1
+1515928489385	geckodriver	INFO	Listening on 127.0.0.1:51592
+1515928491495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.rgVmUduyJ34a"
+1515928492013	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515928493219	Marionette	INFO	Listening on port 51599
+1515928493503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515928493563	Marionette	DEBUG	Register listener.js for window 4294967297
+1515928493638	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515928494566	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515928494566	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515928497340	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515928499232	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515928499368	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515928499954	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515928500542	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515928500557	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515928500661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515928502227	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515929000946	geckodriver	INFO	geckodriver 0.19.1
+1515929000953	geckodriver	INFO	Listening on 127.0.0.1:51850
+1515929003046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.LdBx5ekDxzKb"
+1515929003776	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515929005094	Marionette	INFO	Listening on port 51856
+1515929006162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515929006246	Marionette	DEBUG	Register listener.js for window 4294967297
+1515929006305	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515929007189	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515929007189	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515929011164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929012977	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515929013486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515929013817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515929013818	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1515929013995	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515929014596	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1515929133532	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515929206278	geckodriver	INFO	geckodriver 0.19.1
+1515929206286	geckodriver	INFO	Listening on 127.0.0.1:52066
+1515929208410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.98kqEwFylJ0F"
+1515929209238	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515929210514	Marionette	INFO	Listening on port 52072
+1515929211525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515929211586	Marionette	DEBUG	Register listener.js for window 4294967297
+1515929211654	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515929212540	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515929212540	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515929215335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929216867	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515929218208	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1515929218856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515929219488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515929219490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515929219529	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515929305905	geckodriver	INFO	geckodriver 0.19.1
+1515929305913	geckodriver	INFO	Listening on 127.0.0.1:52212
+1515929308033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.qu3h756czjLx"
+1515929308752	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515929310165	Marionette	INFO	Listening on port 52218
+1515929311155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515929311208	Marionette	DEBUG	Register listener.js for window 4294967297
+1515929311263	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515929312114	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515929312115	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515929315146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929317246	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515929318205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515929318207	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1515929318428	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515929318429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515929318458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515929318796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1515929318977	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1515929320681	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515929320789	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515929322869	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515929322869	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+1515929323359	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1515929323359	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1515929323360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515929323360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515929323360	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515929323361	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515929323361	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515929323361	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1515929323362	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515929323362	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515929323363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515929323363	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515929323734	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515929325218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1515929325849	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1515929325852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967381"
+1515929326157	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1515929326556	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929326610	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929326959	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967388"
+1515929326991	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929326991	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929327289	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967391"
+1515929327289	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1515929327290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1515929327290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1515929327290	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1515929327291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1515929327292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967385"
+1515929327292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1515929327292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515929327292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967351"
+1515929327293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967353"
+1515929327293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1515929327297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1515929327297	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1515929327634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929328953	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967411"
+1515929328964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967416"
+1515929329347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967422"
+1515929329349	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967426"
+1515929329642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967419"
+1515929329805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967430"
+1515929329935	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+1515929354396	geckodriver	INFO	geckodriver 0.19.1
+1515929354403	geckodriver	INFO	Listening on 127.0.0.1:52369
+1515929356514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.XscvTEc0tdX4"
+1515929357243	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515929359018	Marionette	INFO	Listening on port 52375
+1515929359628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515929359689	Marionette	DEBUG	Register listener.js for window 4294967297
+1515929359746	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515929360579	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515929360580	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515929363455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929364767	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515929365091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515929366063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515929366759	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515929366762	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515929366941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515929368914	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515929369034	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515929370931	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515929370932	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515929371300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515929371300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515929371301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515929371301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515929371301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515929371301	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515929371302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515929371302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515929371302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515929371303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515929371303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1515929371303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515929371839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515929373705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1515929373809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1515929373957	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929374007	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929374155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1515929374297	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929374298	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929374309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515929374309	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1515929374888	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1515929374889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1515929374889	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1515929374890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1515929374890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967355"
+1515929374890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967357"
+1515929374890	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1515929374891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1515929374891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1515929374891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1515929374974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929376526	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967399"
+1515929376551	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1515929377110	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967410"
+1515929377111	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967414"
+1515929377346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967407"
+1515929377356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967418"
+1515929379685	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11560, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515929455710	geckodriver	INFO	geckodriver 0.19.1
+1515929455718	geckodriver	INFO	Listening on 127.0.0.1:52572
+1515929457828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.5jzP7xGXuV85"
+1515929458366	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515929459717	Marionette	INFO	Listening on port 52578
+1515929459839	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515929459903	Marionette	DEBUG	Register listener.js for window 4294967297
+1515929459970	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515929460836	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515929460837	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515929463685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929466022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515929466516	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515929466617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515929466975	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515929466979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515929467022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515929470601	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515929470700	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515929472311	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515929472311	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515929473669	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515929473670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515929473670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515929473670	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515929473671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515929473671	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515929473672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515929473672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515929473672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515929473672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515929473673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515929473673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433096, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433096, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+1515929474414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515929476117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1515929476683	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967371"
+1515929476685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1515929476763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1515929477218	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929477273	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929477381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967381"
+1515929477557	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929477558	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515929477850	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1515929477851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1515929477851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1515929477851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967350"
+1515929477852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1515929477852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1515929477852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967361"
+1515929477853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1515929477853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1515929477853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1515929477854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1515929477854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1515929477854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1515929478181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929479456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1515929479518	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967407"
+1515929480323	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967417"
+1515929480327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967421"
+1515929480356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967412"
+1515929480368	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+[Parent 5760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515929646318	geckodriver	INFO	geckodriver 0.19.1
+1515929646325	geckodriver	INFO	Listening on 127.0.0.1:52731
+1515929648417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.fEvPY2t4enwm"
+1515929649001	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515929650389	Marionette	INFO	Listening on port 52738
+1515929650444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515929650511	Marionette	DEBUG	Register listener.js for window 4294967297
+1515929650581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515929651473	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515929651474	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515929654302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515929655790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515929656291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515929656802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515929657260	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515929657263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515929657310	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515929662273	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515930004115	geckodriver	INFO	geckodriver 0.19.1
+1515930004124	geckodriver	INFO	Listening on 127.0.0.1:52993
+1515930006234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.e8cXsiU11Gj2"
+1515930006788	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515930008223	Marionette	INFO	Listening on port 52999
+1515930008256	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515930008328	Marionette	DEBUG	Register listener.js for window 4294967297
+1515930008391	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515930009635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515930009635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515930012300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515930013963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515930013963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515930014742	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515930015706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515930015709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515930015756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515930017745	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515930034440	geckodriver	INFO	geckodriver 0.19.1
+1515930034447	geckodriver	INFO	Listening on 127.0.0.1:53095
+1515930036556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.hYBMFREPC2At"
+1515930037137	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515930038479	Marionette	INFO	Listening on port 53101
+1515930038567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515930038632	Marionette	DEBUG	Register listener.js for window 4294967297
+1515930038701	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515930039523	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515930039523	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515930042292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515930043812	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515930044505	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515930045067	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515930045531	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515930045534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515930045589	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515930049801	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515930049877	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515930051814	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515930051816	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515930052202	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515930052202	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515930052203	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515930052203	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515930052203	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515930052204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515930052205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515930052205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515930052205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515930052206	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515930052206	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515930052207	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515930052734	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515930054096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1515930054855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1515930054858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515930054883	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1515930055688	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515943510664	geckodriver	INFO	geckodriver 0.19.1
+1515943510671	geckodriver	INFO	Listening on 127.0.0.1:55130
+1515943512854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.BjfCuyKeMmYb"
+1515943513731	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515943515449	Marionette	INFO	Listening on port 55136
+1515943515966	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515943516039	Marionette	DEBUG	Register listener.js for window 4294967297
+1515943516108	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515943516964	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515943516965	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515943520511	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515943522775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515943522778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515943522781	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1515943523733	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515943523747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515943523792	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515943524908	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515943524984	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515943526951	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515943526952	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515943527342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515943527343	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515943527343	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515943527343	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515943527344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515943527344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515943527344	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515943527345	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515943527346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515943527346	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515943527347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515943527347	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515943527906	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515943529172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1515943530007	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1515943530010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1515943530185	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1515943530591	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+[Child 11732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515943668712	geckodriver	INFO	geckodriver 0.19.1
+1515943668719	geckodriver	INFO	Listening on 127.0.0.1:55308
+1515943670873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.12SA2wunpTUk"
+1515943671756	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515943673159	Marionette	INFO	Listening on port 55315
+1515943673985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515943674057	Marionette	DEBUG	Register listener.js for window 4294967297
+1515943674124	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515943674968	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515943674969	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515943677741	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515943679126	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515943680467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515943680613	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515943681213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515943681238	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515943681283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515943682581	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515943682657	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515943684306	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515943684306	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515943685614	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515943685615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515943685615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515943685615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515943685616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515943685616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515943685616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515943685616	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1515943685617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515943685617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515943685617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515943685617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433096, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433096, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+1515943686801	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515943688385	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1515943688400	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1515943688404	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1515943688718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1515943689234	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1515943689735	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+1515943736891	geckodriver	INFO	geckodriver 0.19.1
+1515943736899	geckodriver	INFO	Listening on 127.0.0.1:55448
+1515943739006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.u9qYNA3qiGnR"
+1515943739717	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515943741088	Marionette	INFO	Listening on port 55454
+1515943742133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515943742202	Marionette	DEBUG	Register listener.js for window 4294967297
+1515943742266	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515943743159	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515943743159	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515943745861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515943748567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515943749429	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515943749433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1515943749685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515943749701	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515943749707	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515943753691	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515943753773	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515943755745	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515943755747	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515943756137	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1515943756138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515943756138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515943756138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515943756139	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515943756139	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515943756139	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515943756139	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515943756140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515943756140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515943756140	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515943756141	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515943756589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515943757791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1515943758526	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515943758529	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1515943758657	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1515943758663	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1515943759144	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1515943759208	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+1515944021933	geckodriver	INFO	geckodriver 0.19.1
+1515944021941	geckodriver	INFO	Listening on 127.0.0.1:55641
+1515944024024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.8E4IRNky6NE6"
+1515944024773	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515944026096	Marionette	INFO	Listening on port 55647
+1515944027142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515944027213	Marionette	DEBUG	Register listener.js for window 4294967297
+1515944027269	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515944028192	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515944028193	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515944030927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515944033622	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515944034690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515944034698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1515944034728	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515944034778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515944034790	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1515944038078	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515944038148	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515944039812	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515944039812	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515944040900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1515944040900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967333"
+1515944040901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515944040901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515944040902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515944040902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515944040903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515944040903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1515944040903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515944040904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515944040904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515944040905	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433096, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433096, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+1515944042006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515944043529	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1515944044241	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1515944044245	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967371"
+1515944044556	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1515944045173	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1515944045184	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1515944045307	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515944173708	geckodriver	INFO	geckodriver 0.19.1
+1515944173717	geckodriver	INFO	Listening on 127.0.0.1:55793
+1515944175811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.SJx03HLAFVFx"
+1515944176608	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515944177939	Marionette	INFO	Listening on port 55799
+1515944178961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515944179035	Marionette	DEBUG	Register listener.js for window 4294967297
+1515944179112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515944179972	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515944179972	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515944182758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515944184900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515944184908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515944185039	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515944185968	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515944185971	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515944186036	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515944188794	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515944188864	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515944190954	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515944190954	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515944191350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515944191350	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515944191351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515944191352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515944191353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515944191354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515944191354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515944191354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515944191355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515944191355	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515944191356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515944191357	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515944191766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515944193763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1515944193764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1515944193853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1515944193965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1515944194609	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1515944194685	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515944308434	geckodriver	INFO	geckodriver 0.19.1
+1515944308441	geckodriver	INFO	Listening on 127.0.0.1:55944
+1515944310557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.yD79l6bLZL3x"
+1515944311276	Marionette	INFO	Enabled via --marionette
+1515944312540	Marionette	INFO	Listening on port 55950
+1515944312575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515944312646	Marionette	DEBUG	Register listener.js for window 4294967297
+1515944312739	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515944313736	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515944313736	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515944316585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515944318417	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515944319209	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515944320327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515944320861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515944320881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515944320950	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515944324191	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515944324269	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515944326267	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515944326268	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515944326639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515944326639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515944326639	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515944326640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515944326640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515944326640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515944326640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515944326641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515944326641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515944326642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515944326642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515944326642	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515944327070	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515944328744	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1515944328747	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515944328801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1515944329079	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1515944329492	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515944428608	geckodriver	INFO	geckodriver 0.19.1
+1515944428616	geckodriver	INFO	Listening on 127.0.0.1:56079
+1515944430701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.sZ8IlQJEeJzq"
+1515944431410	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3776, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515944432754	Marionette	INFO	Listening on port 56085
+1515944433821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515944433881	Marionette	DEBUG	Register listener.js for window 4294967297
+1515944433948	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515944434813	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515944434813	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515944437750	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515944440012	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515944440855	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515944440858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1515944441090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515944441477	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515944441673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1515944444023	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515944444094	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515944445894	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515944445894	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+1515944446317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1515944446317	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1515944446318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515944446318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515944446318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515944446319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515944446319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515944446319	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515944446320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515944446320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1515944446321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515944446321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515944446842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515944448314	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1515944448706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967373"
+1515944448709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967377"
+1515944448976	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1515944449470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1515944449630	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515945389763	geckodriver	INFO	geckodriver 0.19.1
+1515945389771	geckodriver	INFO	Listening on 127.0.0.1:56403
+1515945391859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.TYmjhqQvYAn6"
+1515945392683	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515945394112	Marionette	INFO	Listening on port 56410
+1515945394970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515945395030	Marionette	DEBUG	Register listener.js for window 4294967297
+1515945395098	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515945395932	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515945395932	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515945398839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515945401043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515945401057	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515945401808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515945402408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1515945402410	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515945402529	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515945403136	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515945403208	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515945405179	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515945405179	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515945405773	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515945405774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515945405774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515945405774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515945405775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515945405775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1515945405775	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515945405776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515945405776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515945405776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515945405777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515945405777	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515945406366	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515945408117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1515945408119	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1515945408462	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1515945408698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967363"
+1515945409062	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13856, Ch1515945491596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.bUpRrAIsRVKs"
+1515945492344	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515945493801	Marionette	INFO	Listening on port 56575
+1515945494707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515945494765	Marionette	DEBUG	Register listener.js for window 4294967297
+1515945494819	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515945496060	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515945496060	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515945498776	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515945500453	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515945500454	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515945501247	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515945502095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515945502097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515945502160	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515945503857	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515945503932	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515945505532	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515945505533	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433096, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433096, line 138: unreachable code after return statement
+1515945507802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515945507803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515945507803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515945507803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515945507804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515945507804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515945507804	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515945507805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515945507805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515945507805	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515945507806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515945507806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+1515945508448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515945510291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1515945510324	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515945510328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1515945510472	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1515945510841	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515945589346	geckodriver	INFO	geckodriver 0.19.1
+1515945589352	geckodriver	INFO	Listening on 127.0.0.1:56738
+1515945591484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.4mChfLhoY3FO"
+1515945592102	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515945593680	Marionette	INFO	Listening on port 56744
+1515945594599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515945594658	Marionette	DEBUG	Register listener.js for window 4294967297
+1515945594717	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515945595631	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515945595631	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515945598985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515945601503	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515945602420	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1515945602433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515945602490	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515945602492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515945602535	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1515945603248	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515945603328	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515945605276	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515945605276	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+1515945605796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515945605796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1515945605797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515945605797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515945605797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515945605798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1515945605799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515945605800	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1515945605801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515945605802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515945605803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515945605803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515945606152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515945607592	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1515945607960	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1515945608645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1515945608648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967382"
+1515945608652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515945608796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1515945609063	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14800, Ch1515945656457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.Yvhyt4mlbEhk"
+1515945657153	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515945658591	Marionette	INFO	Listening on port 56902
+1515945659599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515945659664	Marionette	DEBUG	Register listener.js for window 4294967297
+1515945659723	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515945660620	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515945660620	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515945663577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515945666811	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515945666835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1515945667178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1515945667615	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515945667619	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515945667661	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1515945671829	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515945671914	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515945673515	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515945673516	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515945674962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515945674963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515945674963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515945674963	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515945674964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515945674964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515945674964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1515945674964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1515945674965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515945674966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515945674966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+1515945674966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433096, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433096, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+1515945675894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515945676930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967359"
+1515945677632	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967367"
+1515945677634	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967371"
+1515945678157	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1515945678504	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1515946278199	geckodriver	INFO	geckodriver 0.19.1
+1515946278208	geckodriver	INFO	Listening on 127.0.0.1:57145
+1515946280306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.NUJzgIQVe5pT"
+1515946280938	Marionette	INFO	Enabled via --marionette
+1515946282604	Marionette	INFO	Listening on port 57151
+1515946283441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515946283518	Marionette	DEBUG	Register listener.js for window 4294967297
+1515946283581	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515946284505	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515946284506	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515946288151	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515946289473	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1515946289521	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515946290486	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1515946291008	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1515946291009	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1515946291081	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515946293447	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515946293525	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515946295443	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515946295444	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515946295856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1515946295856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1515946295857	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515946295858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515946295858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515946295858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+1515946295859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1515946295859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1515946295860	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515946295860	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1515946295861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1515946295861	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515946297891	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515946299517	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1515946299518	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1515946299519	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1515946299998	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1515946300000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967382"
+1515946300167	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1515946300507	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+[Child 11008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+for window 4294967297
+1515946353016	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515946353919	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515946353920	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515946356749	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1515946358068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1515946358068	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+1515946359172	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1515946359935	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1515946359937	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967339"
+1515946360124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1515946364248	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1515946364324	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1515946366264	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1515946366264	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1515946366647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1515946366647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967337"
+1515946366648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1515946366648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515946366649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1515946366649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1515946366649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1515946366650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1515946366650	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1515946366651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1515946366652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1515946366652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967323"
+1515946366652	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967325"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1515946367923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1515946369195	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967365"
+1515946369911	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1515946369916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1515946370053	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1515946370171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1515946370545	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967386"
+1515946374140	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+1516043532839	geckodriver	INFO	geckodriver 0.19.1
+1516043532851	geckodriver	INFO	Listening on 127.0.0.1:54152
+1516043535127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.m0ZARTAGCTIL"
+1516043536408	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516043539237	Marionette	INFO	Listening on port 54158
+1516043540339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516043540425	Marionette	DEBUG	Register listener.js for window 4294967297
+1516043540489	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516043541339	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516043541339	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516043544883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1516043547259	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1516043547391	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516043547806	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516043547808	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516043548213	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967327"
+1516043548231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1516043550568	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1516043550651	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1516043552465	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1516043552466	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1516043552841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1516043552841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516043552842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967313"
+1516043552842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1516043552842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516043552842	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1516043552843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1516043552843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1516043552843	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1516043552844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1516043552844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1516043552844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1516043552845	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967317"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1516043553329	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1516043555852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1516043556315	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967375"
+1516043556318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967379"
+1516043556407	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1516043556414	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1516043556552	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516043745021	geckodriver	INFO	geckodriver 0.19.1
+1516043745030	geckodriver	INFO	Listening on 127.0.0.1:62394
+1516043747139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.XATy75Ss3C9b"
+1516043747901	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516043749389	Marionette	INFO	Listening on port 62400
+1516043750257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516043750324	Marionette	DEBUG	Register listener.js for window 4294967297
+1516043750383	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516043751240	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516043751241	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516043753956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1516043756092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516043756681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1516043756684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1516043756816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967315"
+1516043758265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1516043758300	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516043759897	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1516043759961	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1516043761899	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1516043761899	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433096, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+1516043763268	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1516043763269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1516043763269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516043763269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1516043763270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516043763270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1516043763270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1516043763270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1516043763271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1516043763272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1516043763272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1516043763272	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433096, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433096, line 290: unreachable code after return statement
+1516043763949	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1516043765342	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967362"
+1516043765967	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1516043765972	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1516043766122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1516043766332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1516043766697	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1516043767051	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+1516043808712	geckodriver	INFO	geckodriver 0.19.1
+1516043808719	geckodriver	INFO	Listening on 127.0.0.1:62547
+1516043810814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\UNIT1~1\\AppData\\Local\\Temp\\rust_mozprofile.WHrhe9bjhPAI"
+1516043811533	Marionette	INFO	Enabled via --marionette
+1516043813006	Marionette	INFO	Listening on port 62553
+1516043813930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516043813991	Marionette	DEBUG	Register listener.js for window 4294967297
+1516043814050	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516043814926	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516043814927	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516043817934	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping"
+1516043820211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1516043820274	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1516043821536	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1516043821541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967338"
+1516043821548	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1516043821763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967331"
+1516043822450	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping"
+1516043822541	Marionette	DEBUG	Received DOM event "beforeunload" for "https://lojamelissa.com.br/mapping"
+1516043824327	Marionette	DEBUG	Received DOM event "pagehide" for "https://lojamelissa.com.br/mapping"
+1516043824327	Marionette	DEBUG	Received DOM event "unload" for "https://lojamelissa.com.br/mapping"
+1516043824708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1516043824708	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1516043824709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967310"
+1516043824709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1516043824709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1516043824709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967319"
+1516043824710	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967324"
+1516043824710	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1516043824711	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1516043824712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967306"
+1516043824712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1516043824712	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967314"
+Unable to read VR Path Registry from C:\Users\Unit 1\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://lojamelissa.com.br/js/varien/product.js?v=1515433094, line 481: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/calendar/calendar.js?v=1515433094, line 138: unreachable code after return statement
+JavaScript warning: https://lojamelissa.com.br/js/varien/configurable.js?v=1515433094, line 290: unreachable code after return statement
+1516043825280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://lojamelissa.com.br/mapping/vixen"
+1516043826910	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1516043827315	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967372"
+1516043827318	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1516043827457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967369"
+1516043827467	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1516043827941	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967383"
+1516043828219	Marionette	DEBUG	Received DOM event "pageshow" for "https://lojamelissa.com.br/mapping/vixen#959=245"
